@@ -54,7 +54,7 @@ if uploaded_file is None:
 
 # 1. Display the uploaded image
 image = Image.open(uploaded_file)
-st.image(image, caption="Uploaded Room", use_container_width=True)
+st.image(image, caption="Uploaded Room", width=500)
 
 # 2. Preprocess in memory (no temp file, so it is safe with several visitors at once)
 processed_img = dp.preprocess_for_model(image, target_size=dp.IMG_SIZE, scale_to_unit=scale_to_unit)
