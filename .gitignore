@@ -1,0 +1,15 @@
+__pycache__/
+.vscode/
+
+# Datasets and archives (too large for GitHub)
+StyleClassificationIndoors/
+StyleClassificationIndoors_balanced_data/
+*.zip
+
+# Training outputs
+*.csv
+*.png
+*.keras
+
+# ...except the one model the deployed app needs
+!ResNet_Custom_best.keras

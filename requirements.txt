@@ -1,0 +1,7 @@
+# Runtime requirements for the deployed Streamlit app only.
+# Pin tensorflow to the version you trained with (run: pip show tensorflow)
+# so the saved .keras model loads the same way online, e.g. tensorflow==2.16.1
+streamlit>=1.40
+tensorflow
+numpy
+pillow

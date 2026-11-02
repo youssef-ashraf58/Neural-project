@@ -1,0 +1,20 @@
+TEST : 5482 photo
+
+Train : 
+asian: 0 : 779 photo
+boho: 1 : 918 photo
+coastal: 2 : 794 photo 
+contemporary: 3 : 782 photo
+craftsman: 4 : 764 photo
+eclectic: 5 : 809 photo
+farmhouse: 6 : 795 photo
+french-country: 7 : 788 photo
+industrial: 8 : 764 photo
+mediterranean: 9 : 789 photo 
+minimalist: 10 : 555 photo
+modern: 11: 809 photo
+scandinavian: 12 : 768 photo
+shabby-chic-style: 13 :746 photo
+southwestern: 14 : 772 photo
+tropical: 15 : 772 photo
+victorian: 16:759 photo

@@ -1,0 +1,6 @@
+# Extra packages needed only for training / experiments (not for the deployed app).
+-r requirements.txt
+scikit-learn
+matplotlib
+opencv-python
+pandas
